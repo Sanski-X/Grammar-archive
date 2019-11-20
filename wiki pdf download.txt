@@ -1,0 +1,15 @@
+https://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=%s&action=show-download-screen&printable=yes#p-search
+
+https://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=%s&action=show-download-screen
+
+
+
+https://en.wikipedia.org/wiki/Hair?wprov=sfti1
+(?<="wiki"/").*?(?=("?wprov=sfti1"|$))
+
+a/b?c
+(?<=a/).*?(?=(/?|$))
+
+语法存档：
+符号前/
+e.g:    (?<=a/).*?(?=(/?|$))
